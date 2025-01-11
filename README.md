@@ -28,10 +28,12 @@ Technical Skills:
 
 Tools:
 
-    🐧 Kali Linux
+    🐧 FFUF
     💥 Metasploit
     🕷️ Burp Suite
     🔎 Nmap
+    
+    
 
 🌐 Projects
 💻 User Choice Encryption (Academic Project)
