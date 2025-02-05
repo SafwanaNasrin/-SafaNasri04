@@ -39,14 +39,11 @@ Tools:
 💻 User Choice Encryption (Academic Project)
 This project allows users the flexibility to choose their encryption algorithms based on the security level required for different applications. With a user-friendly interface, individuals can select between various encryption algorithms (AES, RSA, etc.) to protect sensitive data. The aim is to give users more control over their privacy and ensure data protection in a personalized manner. 🔐
 
-🏆 Achievements
-
-    🌟 Recognized in the Hall of Fame by Inflectra for exceptional contributions to cybersecurity. 🏅
 
 📞 Let’s Connect!
-🔗 [LinkedIn]
-🔗 [GitHub]
-📧 [Email]
+🔗 [LinkedIn] : www.linkedin.com/in/safwananasrin
+🔗 [GitHub] : https://github.com/safwananasrin
+📧 [Email] : safwananasrinnn@gmail.com
 
 📌 "Security is not a product; it’s a process." - Bruce Schneier
 10:10 PM
@@ -91,9 +88,7 @@ Tools:
 💻 User Choice Encryption (Academic Project)
 This project allows users the flexibility to choose their encryption algorithms based on the security level required for different applications. With a user-friendly interface, individuals can select between various encryption algorithms (AES, RSA, etc.) to protect sensitive data. The aim is to give users more control over their privacy and ensure data protection in a personalized manner. 🔐
 
-🏆 Achievements
 
-    🌟 Recognized in the Hall of Fame by Inflectra for exceptional contributions to cybersecurity. 🏅
 
 📞 Let’s Connect!
 🔗 [LinkedIn]
