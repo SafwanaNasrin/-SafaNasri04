@@ -9,13 +9,7 @@ Hi there! 👋 I'm Safwana Nasrin, a passionate Certified Ethical Hacker (CEH) a
 🎓 Bachelor of Science in Computer Science - People's Co-operative Arts and Science College, Kasaragod (2021 - 2024)
 🎓 Cyber Security Certification - Synnefo Solution, 2024
 
-📜 Certifications
 
-    📊 Data Management and Machine Learning
-    🧠 Quantum Computing
-    📱 Android Basics with Compose Course
-    ☁️ Generative AI Fundamentals with Google Cloud
-    🌐 Networking Technologies
 
 🛠️ Skills & Tools
 Technical Skills:
